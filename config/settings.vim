@@ -1,9 +1,11 @@
 "# Display settings:
 syntax on
 filetype indent plugin on
-colorscheme github
+"colorscheme github
+"colorscheme scite
+"colorscheme telstar 
 "colorscheme desert
-"colorscheme tesla
+colorscheme tesla
 
 set autoindent
 set number
